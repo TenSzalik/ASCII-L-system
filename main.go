@@ -5,7 +5,7 @@ TODO:
 - enhance performance (remove grid?)
 - validators
 - support for small signs like 'f'
-- support colors for leafs
+- support colors for leaves
 - support changing bg color
 */
 
